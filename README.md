@@ -1,2 +1,2 @@
 # devops-july
-aygjyafgukhuaslkghaiugyasfyuasfyugsqia
+This is a repo for devops july class.
